@@ -4,6 +4,8 @@ function Home(){
         <img src="https://i.ytimg.com/vi/4Ylmo83Ajf8/maxresdefault.jpg"></img>
         <span> puts.. vc desistiu mesmo kk</span>
     </body>
+
+    return Home();
 }
 
 export default Home;
